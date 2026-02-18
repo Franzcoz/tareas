@@ -117,3 +117,4 @@ function tarjetaEstado(id) {
     tarj.innerHTML = "Completada";
     tarj.setAttribute("class","card-text text-success col-6");
 }
+
